@@ -1,0 +1,4 @@
+interface:
+  display_name: "科研绘图工作流"
+  short_description: "从实现与论文生成提示词和位图，再复刻为可编辑的 draw.io 科研图"
+  default_prompt: "使用 $research-figure，阅读相关实现与论文草稿，设计提示词和位图底图，再复刻为可编辑 draw.io 图并迭代检查。"
